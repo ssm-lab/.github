@@ -8,7 +8,7 @@ Welcome to the Sustainable Systems and Methods (SSM) Lab. We’re a research lab
 - Digital twins
 - Model-driven engineering
 
-### :page_with_curl: Recent publications
+### :page_with_curl: Recent key publications
 - :bust_in_silhouette:[K. Dagenais](https://github.com/dagenaik), :bust_in_silhouette:[I. David](https://istvandavid.com/). "Opinion-Guided Reinforcement Learning". 2024. [Pre-print](https://arxiv.org/abs/2405.17287)
 - :bust_in_silhouette:[I. David](https://istvandavid.com/), J. Michael, D. Bork. "Digital Twin Evolution for Sustainable Smart Ecosystems". 2024. [Pre-print](https://arxiv.org/abs/2403.07162)
 - :bust_in_silhouette:[I. David](https://istvandavid.com/) and E. Syriani. "Automated Inference of Simulators in Digital Twins". In: Handbook of Digital Twins. 1st Edition. Chapter 8. CRC Press. 2024. [10.1201/9781003425724-11](https://doi.org/10.1201/9781003425724-11)
