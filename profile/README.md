@@ -9,6 +9,7 @@ Welcome to the Sustainable Systems and Methods (SSM) Lab. We’re a research lab
 - Model-driven engineering
 
 ### :page_with_curl: Key recent publications
+- E. Syriani, :bust_in_silhouette:[I. David](https://istvandavid.com/), G. Kumar. "Screening Articles for Systematic Reviews with ChatGPT". Journal of Computer Languages. 2024. [Pre-print](https://istvandavid.com/files/ChatGPT-Screening-SR-COLA.pdf)
 - :bust_in_silhouette:[K. Dagenais](https://github.com/dagenaik). "Towards Model Repair by Human Opinion-Guided Reinforcement Learning". 2024.
 - :bust_in_silhouette:[K. Dagenais](https://github.com/dagenaik), :bust_in_silhouette:[I. David](https://istvandavid.com/). "Opinion-Guided Reinforcement Learning". 2024. [Pre-print](https://arxiv.org/abs/2405.17287)
 - :bust_in_silhouette:[I. David](https://istvandavid.com/), J. Michael, D. Bork. "Digital Twin Evolution for Sustainable Smart Ecosystems". 2024. [Pre-print](https://arxiv.org/abs/2403.07162)
