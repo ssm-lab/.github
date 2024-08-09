@@ -10,6 +10,8 @@ Welcome to the Sustainable Systems and Methods (SSM) Lab. We’re a research lab
 
 ### :page_with_curl: Key recent publications
 - :bust_in_silhouette:[K. Dagenais](https://github.com/dagenaik), :bust_in_silhouette:[I. David](https://istvandavid.com/). "Opinion-Guided Reinforcement Learning". 2024. [[Tech. rep.](https://arxiv.org/abs/2405.17287)]
+- :bust_in_silhouette:X. Liu, :bust_in_silhouette:[I. David](https://istvandavid.com/). "AI Simulation by Digital Twins: Systematic Survey of the State of the Art and a Reference Framework". 2024.
+- :bust_in_silhouette:[K. Dagenais](https://github.com/dagenaik), :bust_in_silhouette:[I. David](https://istvandavid.com/). "Driving Requirements Evolution by Engineers' Opinions". 2024.
 - E. Syriani, :bust_in_silhouette:[I. David](https://istvandavid.com/), G. Kumar. "Screening Articles for Systematic Reviews with ChatGPT". Journal of Computer Languages. 2024. [[Pre-print](https://istvandavid.com/files/ChatGPT-Screening-SR-COLA.pdf)]
 - :bust_in_silhouette:[I. David](https://istvandavid.com/), G. Shao, C. Gomes, D. Tilbury, B. Zarkout. "Interoperability of Digital Twins: Challenges, Success Factors, and Future Research Directions". International Symposium on Leveraging Applications of Formal Methods, Verification and Validation. Verification Principles (ISoLA). 2024. [[Pre-print](https://istvandavid.com/files/DT-interoperability-ISoLA2024.pdf)]
 - :bust_in_silhouette:[K. Dagenais](https://github.com/dagenaik). "Towards Model Repair by Human Opinion-Guided Reinforcement Learning". 2024.
