@@ -10,6 +10,7 @@ Welcome to the Sustainable Systems and Methods (SSM) Lab. We’re a research lab
 
 ### :page_with_curl: Key recent publications
 #### AI/ML
+- "_Complex Model Transformations by Reinforcement Learning with Uncertain Human Guidance_" by :bust_in_silhouette:[K. Dagenais](https://kyannadagenais.ca/) and :bust_in_silhouette:[I. David](https://istvandavid.com/). 2025. Accepted for MODELS'25. :page_facing_up: [[Preprint](https://arxiv.org/abs/2506.20883)]
 - "_AI Simulation by Digital Twins: Systematic Survey, Reference Framework, and Mapping to a Standardized Architecture_" by :bust_in_silhouette:[X. Liu](https://xiaoranliu.com/) and :bust_in_silhouette:[I. David](https://istvandavid.com/). Accepted in SoSyM 2025. :page_facing_up: [[Preprint](https://arxiv.org/abs/2506.06580)]
 - "_On the Utility of Domain Modeling Assistance with Large Language Models_" by M. Ben Chaaben, L. Burgueño, :bust_in_silhouette:[I. David](https://istvandavid.com/), and H. Sahraoui. Accepted in TOSEM. 2025. :page_facing_up: [[Preprint](https://arxiv.org/abs/2410.12577)]
 - "_Opinion-Guided Reinforcement Learning_" by :bust_in_silhouette:[K. Dagenais](https://kyannadagenais.ca/) and :bust_in_silhouette:[I. David](https://istvandavid.com/). 2024. :page_facing_up:[[Tech. rep.](https://arxiv.org/abs/2405.17287)]
