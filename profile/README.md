@@ -3,10 +3,10 @@
 Welcome to the Sustainable Systems and Methods (SSM) Lab. We’re a research lab at the Department of Computing and Software (CAS) of the Faculty of Engineering at McMaster University, Canada.
 
 ### :telescope: Research focus
-- Sustainable systems
 - AI and machine learning
 - Digital twins
 - Model-driven engineering
+- Sustainable systems
 
 ### :page_with_curl: Key recent publications
 #### AI/ML
