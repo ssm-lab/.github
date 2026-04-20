@@ -33,3 +33,4 @@ Welcome to the Sustainable Systems and Methods (SSM) Lab. We’re a research lab
 ### Repositories
 
 <a href="https://github.com/search?q=topic%3Areplication-package+org%3Assm-lab&type=Repositories" rel="Replication packages"><img src="replication-packages.png" width="300"/></a>
+<a href="https://github.com/search?q=topic%3Ateaching-materials+org%3Assm-lab&type=Repositories" rel="Teaching materials"><img src="teaching-and-study-materials.png" width="300"/></a>
