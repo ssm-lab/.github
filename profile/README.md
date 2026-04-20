@@ -4,8 +4,8 @@ Welcome to the Sustainable Systems and Methods (SSM) Lab. We’re a research lab
 
 ### :telescope: Research focus
 - AI and machine learning
-- Digital twins
 - Model-driven engineering
+- Digital twins
 - Sustainable systems
 
 ### :page_with_curl: Key recent publications
@@ -28,3 +28,8 @@ Welcome to the Sustainable Systems and Methods (SSM) Lab. We’re a research lab
 - **Driving Requirements Evolution by Engineers' Opinions** by K. Dagenais, :bust_in_silhouette:[I. David](https://istvandavid.com/). MODELS-C. 2024. :page_facing_up: [10.1145/3652620.3688566](https://doi.org/10.1145/3652620.3688566) [[Preprint](https://istvandavid.com/files/Requirements-evolution-uncertainty-MPM4CPS-2024.pdf)]
 - **Towards Model Repair by Human Opinion-Guided Reinforcement Learning** by K. Dagenais. MODELS-C. 2024. :page_facing_up: [10.1145/3652620.3676878](https://doi.org/10.1145/3652620.3676878) [[Preprint](https://kyannadagenais.ca/uploads/papers/Model-repair-guided-reinforcement-learning-SRC2024.pdf)] 
 - **Automated Inference of Simulators in Digital Twins** by :bust_in_silhouette:[I. David](https://istvandavid.com/) and E. Syriani. Handbook of Digital Twins. Chapter 8. 2024. :page_facing_up:[10.1201/9781003425724-11](https://doi.org/10.1201/9781003425724-11) [[Preprint](https://istvandavid.com/files/rl4sim-bookchapter-2023.pdf)]
+
+
+### Repositories
+
+<a href="https://github.com/search?q=topic%3Areplication-package+org%3Assm-lab&type=Repositories" rel="Replication packages"><img src="replication-packages.png" width="300"/></a>
