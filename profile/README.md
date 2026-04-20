@@ -25,8 +25,7 @@ Welcome to the Sustainable Systems and Methods (SSM) Lab. We’re a research lab
 
 #### Digital twins and model-driven engineering
 - **Engineering Automotive Digital Twins on Standardized Architectures: A Case Study** by S. Ramdhan, W. Trandinh, :bust_in_silhouette:[I. David](https://istvandavid.com/), V. Pantelic, and M. Lawford. MODELS/EDTConf. 2025. :page_facing_up: [10.1109/MODELS-C68889.2025.00034](https://doi.org/10.1109/MODELS-C68889.2025.00034) [[Preprint](https://arxiv.org/abs/2508.18662)]
-- **Driving Requirements Evolution by Engineers' Opinions** by K. Dagenais, :bust_in_silhouette:[I. David](https://istvandavid.com/). MODELS-C. 2024. :page_facing_up: [10.1145/3652620.3688566](https://doi.org/10.1145/3652620.3688566) [[Preprint](https://istvandavid.com/files/Requirements-evolution-uncertainty-MPM4CPS-2024.pdf)]
-- **Towards Model Repair by Human Opinion-Guided Reinforcement Learning** by K. Dagenais. MODELS-C. 2024. :page_facing_up: [10.1145/3652620.3676878](https://doi.org/10.1145/3652620.3676878) [[Preprint](https://kyannadagenais.ca/uploads/papers/Model-repair-guided-reinforcement-learning-SRC2024.pdf)] 
+- **Interoperability of Digital Twins: Challenges, Success Factors, and Future Research Directions** by :bust_in_silhouette:[I. David](https://istvandavid.com/), G. Shao, C. Gomes, D. Tilbury, and B. Zarkout. ISoLA. 2024. :page_facing_up:[10.1007/978-3-031-75390-9_3](https://doi.org/10.1007/978-3-031-75390-9_3) [[Preprint](https://istvandavid.com/files/DT-interoperability-ISoLA2024.pdf)].
 - **Automated Inference of Simulators in Digital Twins** by :bust_in_silhouette:[I. David](https://istvandavid.com/) and E. Syriani. Handbook of Digital Twins. Chapter 8. 2024. :page_facing_up:[10.1201/9781003425724-11](https://doi.org/10.1201/9781003425724-11) [[Preprint](https://istvandavid.com/files/rl4sim-bookchapter-2023.pdf)]
 
 
