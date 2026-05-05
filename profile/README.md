@@ -4,7 +4,7 @@ Welcome to the Sustainable Systems and Methods (SSM) Lab. We’re a research lab
 
 ## :telescope: Research focus
 - AI and machine learning
-- Model-driven engineering
+- Model-driven engineering and simulation
 - Digital twins
 - Sustainable systems
 
