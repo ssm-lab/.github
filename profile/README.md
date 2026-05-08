@@ -32,7 +32,7 @@ Welcome to the Sustainable Systems and Methods (SSM) Lab. We’re a research lab
 
 ## :package: Repositories
 
-<a href="https://github.com/search?q=topic%3Areplication-package+org%3Assm-lab&type=Repositories" rel="Replication packages"><img src="replication-packages-1.png" width="300"/></a>
-<a href="https://github.com/search?q=topic%3Aresearch-project+org%3Assm-lab+fork%3Atrue&type=repositories" rel="Research projects"><img src="research-projects-1.png" width="300"/></a>
-<a href="https://github.com/search?q=topic%3Astudent-project+org%3Assm-lab+fork%3Atrue&type=repositories" rel="Student projects"><img src="student-projects-1.png" width="300"/></a>
-<a href="https://github.com/search?q=topic%3Ateaching-materials+org%3Assm-lab&type=Repositories" rel="Teaching materials"><img src="teaching-materials-1.png" width="300"/></a>
+<a href="https://github.com/search?q=topic%3Areplication-package+org%3Assm-lab&type=Repositories&s=updated&o=desc" rel="Replication packages"><img src="replication-packages-1.png" width="300"/></a>
+<a href="https://github.com/search?q=topic%3Aresearch-project+org%3Assm-lab+fork%3Atrue&type=repositories&s=updated&o=desc" rel="Research projects"><img src="research-projects-1.png" width="300"/></a>
+<a href="https://github.com/search?q=topic%3Astudent-project+org%3Assm-lab+fork%3Atrue&type=repositories&s=updated&o=desc" rel="Student projects"><img src="student-projects-1.png" width="300"/></a>
+<a href="https://github.com/search?q=topic%3Ateaching-materials+org%3Assm-lab&type=Repositories&s=updated&o=desc" rel="Teaching materials"><img src="teaching-materials-1.png" width="300"/></a>
