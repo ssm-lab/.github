@@ -30,6 +30,10 @@ Welcome to the Sustainable Systems and Methods (SSM) Lab. We’re a research lab
 - **Circular Systems Engineering** by :bust_in_silhouette:[I. David](https://istvandavid.com/), D. Bork, and G. Kappel. SoSyM. 2024. :page_facing_up:[10.1007/s10270-024-01154-4](https://doi.org/10.1007/s10270-024-01154-4) [[Preprint](https://arxiv.org/abs/2306.17808)]
 - **The Role of Modeling in the Analysis and Design of Sustainable Systems: A Panel Report** by D. Bork, :bust_in_silhouette:[I. David](https://istvandavid.com/), S. Espana, G. Guizzardi, H. Proper, I. Reinhartz-Berger. CAIS. 2024. :page_facing_up:[10.17705/1CAIS.05434](https://aisel.aisnet.org/cais/vol54/iss1/41/) [[Preprint](https://istvandavid.com/files/The-Role-of-Modeling-in-the-Design-and-Analysis-of-Sustainable-Systems.pdf)]
 
+## :package: Open-source software
+- [PythonPDEVS](https://github.com/ssm-lab/PythonPDEVS) - This is a fork from the official PythonPDEVS repo (from UAntwerp) with improvements.
+
+
 ## :package: Repositories
 
 <a href="https://github.com/search?q=topic%3Areplication-package+org%3Assm-lab&type=Repositories&s=updated&o=desc" rel="Replication packages"><img src="replication-packages-1.png" width="300"/></a>
